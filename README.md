@@ -3,11 +3,11 @@
 this my soultion to front end mentor challenge Newsletter sign-up form with success message
 
 # demo
-click here for demo : [github pages demo](https://winston9797.github.com/Newsletter-sign-up)
+click here for demo : [github pages demo](https://winston9797.github.io/Newsletter-sign-up/)
 
 
 # demo video 
-[Youtube video](https://winston9797.github.io/Newsletter-sign-up/)
+[Youtube video](https://www.youtube.com/watch?v=iVzoDPs-JEs)
 
 # notes
 i got rid of the image in mobile to increase preformance and the design fits better this way
