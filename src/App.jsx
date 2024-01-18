@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import './App.css'
 import SubscribeCard from './assets/components/subscribeCard'
 import SuccuesCard from './assets/components/succuesCard'
+import './App.css'
 
 function App() {
   const [succes, setsucces] = useState(false)
